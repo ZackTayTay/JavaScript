@@ -1,8 +1,7 @@
-var notaAluno = 8;
+var numero = prompt("Digite seu numero de celular")
+var ddd = prompt("Qual o seu DDD?")
+var nove = 9
 
-var mediaprova = notaAluno < 7;
-var aprovado = notaAluno >= 7;
+var numeronovo = ddd + nove + numero
 
-console.log(aprovado );
-
-var diretoria = 1
+alert( "O numero do seu celular é  " + ddd + nove + numero)
